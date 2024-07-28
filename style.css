@@ -1,0 +1,56 @@
+ .heading {
+     color: rgba(247, 245, 245, 0.882);
+ }
+
+ .home {
+     background-image: url("background.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+ }
+
+ .login {
+     background-image: url("background3.jpg");
+     /* background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed; */
+ }
+
+ .font {
+     color: rgb(208, 195, 195);
+
+ }
+
+
+
+ .navbar li {
+     float: left;
+     list-style: none;
+     background-color: white;
+ }
+
+ .navbar li a {
+     padding: 15px;
+     text-decoration: none;
+
+
+
+ }
+
+ .signup {
+
+     background-image: url("background4.png");
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+
+ .exe {
+     background-image: url(background5.jpg);
+
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+
+
+ }
